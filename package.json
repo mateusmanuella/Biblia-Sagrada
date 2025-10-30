@@ -1,0 +1,12 @@
+{
+  "name": "conheca-a-biblia",
+  "version": "1.0.0",
+  "description": "Site Conheça a Bíblia - Projeto DSA1",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["biblia", "christian", "education", "religion"],
+  "author": "INF1FT",
+  "license": "MIT"
+}
